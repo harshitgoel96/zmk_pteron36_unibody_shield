@@ -1,3 +1,5 @@
+name: zmk-keyboard-pteron36-unibody
 build:
   settings:
+    # Folder containing a "boards" folder (. = root)
     board_root: .

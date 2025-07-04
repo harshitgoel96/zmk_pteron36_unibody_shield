@@ -1,0 +1,7 @@
+file_format: "1"
+id: pteron36_unibody
+name: Pteron36 Unibody
+type: shield
+requires: [pro_micro]
+features:
+  - keys
