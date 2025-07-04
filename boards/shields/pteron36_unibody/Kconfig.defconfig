@@ -1,6 +1,6 @@
 if SHIELD_PTERON36_UNIBODY
 
 config ZMK_KEYBOARD_NAME
-    default "Pteron36 Unibody"
+    default "Pteron36 Uni"
 
 endif
